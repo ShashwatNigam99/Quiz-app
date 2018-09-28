@@ -44,7 +44,18 @@ HIPPOCAMPUS - A quiz application with React.js,Bootstrap for frontend, Golang fo
 ```
 - In the app I've made, make sure you run `npm install` or just `yarn` inside the `react-app` folder. This command automatically looks at the `package.json` file and installs the required packages into the `node_modules` folder.
 - You can run the app by running `yarn start`
-
+## Running the application-
+- Run this command inside the Hippocampus/react-app folder
+```bash
+             npm install
+             yarn start
+ ```
+ - On a separate terminal instance run this in the Hippocampus/go folder
+ ```bash
+             go run CRUD.go
+ ```
+ - Go to localhost:3000 to use the application
+ 
 ## Functionalities-
 
 ### Homepage:
