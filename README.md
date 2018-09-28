@@ -59,9 +59,11 @@ HIPPOCAMPUS - A quiz application with React.js,Bootstrap for frontend, Golang fo
 ## Functionalities-
 
 ### Homepage:
-#### Signed out
+
+### Signed out
 <img src="images/homepage.png" >
-#### Logged in
+
+### Logged in
 <img src="images/home_loggedin_notadmin.png" >
 
 ### Users list
