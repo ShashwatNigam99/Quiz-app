@@ -1,0 +1,25 @@
+.navstyle{
+  padding: 2vh;
+  font-size: 3vh;
+  font-family: 'Pacifico', cursive;
+}
+.navbar-header{
+  padding:0;
+}
+
+.navbar-brand{
+font-size: 3vh;
+font-family: 'Pacifico',cursive;
+padding-left: 1vw;
+align-items: center;
+}
+
+Link{
+  text-align: center;
+}
+
+li{
+  padding-left: 1vw;
+  padding-right: 1vw;
+  text-align: center;
+}

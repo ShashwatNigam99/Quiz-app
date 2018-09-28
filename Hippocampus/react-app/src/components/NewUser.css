@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 1vh;
+  color: black;
+}
+
+.App-title {
+  font-size: 10vh;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.formContainer {
+  padding-left: 25vw;
+  padding-right: 25vw;
+}
+
+label{
+  font-size: 2vh;
+  font-family: inherit;
+}
+
+@media only screen and (max-width: 768px) {
+    .formContainer {
+        padding:10vw;
+        margin: auto;
+    }
+}

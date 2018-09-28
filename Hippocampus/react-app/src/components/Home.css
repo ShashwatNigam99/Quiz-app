@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 1vh;
+  color: black;
+}
+
+.Home-title {
+  font-size: 13vh;
+}
+.header{
+  font-size: 5vh;
+  font-family: 'Pacifico';
+
+}
+.App-intro {
+  font-size: large;
+}
+
+@media only screen and (max-width: 768px){
+  .Home-title{
+    font-size: 15vw;
+  }
+}

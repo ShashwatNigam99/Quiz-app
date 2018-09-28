@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 1vh;
+  color: black;
+}
+
+.App-title {
+  font-size: 10vh;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 15px;
+}
+strong{
+  font-style: italic;
+  font-family: 'Rubik',sans-serif;
+  font-size: 3vh;
+}
+.btn-primary{
+  background-color:#B73334;
+}
+
+
+.glyphicon{
+  font-size: 5vh;
+  font-family:inherit;
+  font-style: italic;
+}
+
+label{
+  font-size: 2vh;
+  font-style: italic;
+}
